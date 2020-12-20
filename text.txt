@@ -1,0 +1,36 @@
+Compiled from "Student.java"
+public class Student {
+  public Student();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+       3: ldc           #13                 // String Group 545-b
+       5: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+       8: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      11: ldc           #21                 // String Student: Syrovaten Stanislav Sergeyevich
+      13: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      16: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      19: ldc           #23                 // String   **        **         **
+      21: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      24: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      27: ldc           #25                 // String **   **   **   **    **   **
+      29: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      32: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      35: ldc           #27                 // String **        **         **
+      37: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      40: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      43: ldc           #29                 // String **        **         **
+      45: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      48: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      51: ldc           #25                 // String **   **   **   **    **   **
+      53: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      56: getstatic     #7                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      59: ldc           #23                 // String   **        **         **
+      61: invokevirtual #15                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      64: return
+}
